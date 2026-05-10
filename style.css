@@ -19,7 +19,7 @@ body {
 .hero {
   min-height: 100vh;
  background: linear-gradient(rgba(50, 30, 25, 0.22), rgba(50, 30, 25, 0.22)),
-            url("img/foto.jpeg");
+            url("img/foto.JPEG");
   background-size: cover;
   background-position: center;
   color: white;
