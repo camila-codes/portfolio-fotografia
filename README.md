@@ -1,46 +1,51 @@
-# Portfólio Fotográfico
+# Portfólio de Fotografia
 
-Projeto desenvolvido com HTML e CSS para apresentar uma galeria de fotografias autorais em uma página visual, responsiva e organizada.
-
-## Sobre o projeto
-
-Este portfólio fotográfico foi criado como um projeto de estudo em HTML e CSS, unindo meu interesse por fotografia, criatividade e desenvolvimento front-end.
-
-A proposta é apresentar registros autorais em uma página simples, responsiva e visualmente organizada, praticando estrutura de página, composição visual e experiência do usuário.
+Projeto de portfólio fotográfico desenvolvido com HTML e CSS, focado em layout responsivo e apresentação visual.
 
 ## Tecnologias utilizadas
-
-- HTML
-- CSS
-- GitHub Pages
+- HTML5
+- CSS3
 
 ## Funcionalidades
-
-- Página inicial com imagem de fundo
-- Menu de navegação
-- Seção sobre o projeto
-- Seção “O que aprendi”
-- Galeria com fotografias autorais
-- Botões com links para GitHub e LinkedIn
+- Galeria de imagens
 - Layout responsivo
+- Estrutura de portfólio
 
-## O que aprendi
+## Objetivo do projeto
+Praticar desenvolvimento front-end e construção de interfaces visuais.
 
-Durante o desenvolvimento deste projeto, pratiquei:
+## Deploy
+# Portfólio de Fotografia
 
-- Estruturação de páginas com HTML semântico
-- Organização de seções em uma página web
-- Uso de imagens de fundo
-- Criação de galeria visual
-- Estilização com CSS
-- Uso de cores, espaçamentos, bordas e sombras
-- Criação de botões com links externos
-- Noções iniciais de responsividade
+Projeto de portfólio fotográfico desenvolvido com HTML e CSS, focado em layout responsivo e apresentação visual.
 
-## Prévia do projeto
+## Tecnologias utilizadas
+- HTML5
+- CSS3
 
-Em breve: link do projeto publicado no GitHub Pages.
+## Funcionalidades
+- Galeria de imagens
+- Layout responsivo
+- Estrutura de portfólio
 
-## Status
+## Objetivo do projeto
+Praticar desenvolvimento front-end e construção de interfaces visuais.
 
-Projeto em desenvolvimento.
+## Deploy
+# Portfólio de Fotografia
+
+Projeto de portfólio fotográfico desenvolvido com HTML e CSS, focado em layout responsivo e apresentação visual.
+
+## Tecnologias utilizadas
+- HTML5
+- CSS3
+
+## Funcionalidades
+- Galeria de imagens
+- Layout responsivo
+- Estrutura de portfólio
+
+## Objetivo do projeto
+Praticar desenvolvimento front-end e construção de interfaces visuais.
+
+## Deploy
