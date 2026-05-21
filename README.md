@@ -1,52 +1,35 @@
-# Portfólio de Fotografia
+# Visual Portfolio
 
-Projeto de portfólio fotográfico desenvolvido com HTML e CSS, focado em layout responsivo e apresentação visual.
+Projeto autoral desenvolvido com HTML, CSS e JavaScript, explorando direção visual, fotografia e interfaces inspiradas em editoriais modernos.
 
-## Tecnologias utilizadas
+## Tecnologias
+
 - HTML5
 - CSS3
+- JavaScript
+- GitHub Pages
+
+## Objetivo
+
+Criar uma experiência visual elegante e responsiva, unindo fotografia autoral e desenvolvimento front-end.
 
 ## Funcionalidades
-- Galeria de imagens
-- Layout responsivo
-- Estrutura de portfólio
 
-## Objetivo do projeto
-Praticar desenvolvimento front-end e construção de interfaces visuais.
+- Layout responsivo
+- Hero cinematográfico
+- Galeria interativa
+- Hover animations
+- Navegação suave
+- Design minimalista
+
+## Preview
+
+![Preview do projeto](img/preview.PNG)
 
 ## Deploy
-# Portfólio de Fotografia
 
-Projeto de portfólio fotográfico desenvolvido com HTML e CSS, focado em layout responsivo e apresentação visual.
+Acesse o projeto online:
 
-## Tecnologias utilizadas
-- HTML5
-- CSS3
-
-## Funcionalidades
-- Galeria de imagens
-- Layout responsivo
-- Estrutura de portfólio
-
-## Objetivo do projeto
-Praticar desenvolvimento front-end e construção de interfaces visuais.
-
-## Deploy
-# Portfólio de Fotografia
-
-Projeto de portfólio fotográfico desenvolvido com HTML e CSS, focado em layout responsivo e apresentação visual.
-
-## Tecnologias utilizadas
-- HTML5
-- CSS3
-
-## Funcionalidades
-- Galeria de imagens
-- Layout responsivo
-- Estrutura de portfólio
-
-## Objetivo do projeto
-Praticar desenvolvimento front-end e construção de interfaces visuais.
-
-## Deploy
+```txt
 https://camila-codes.github.io/portfolio-fotografia/
+```
