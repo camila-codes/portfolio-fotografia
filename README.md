@@ -1,4 +1,4 @@
-# Visual Portfolio
+# Portfolio fotografia
 
 Projeto autoral desenvolvido com HTML, CSS e JavaScript, explorando direção visual, fotografia e interfaces inspiradas em editoriais modernos.
 
